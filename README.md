@@ -42,7 +42,7 @@ Big Data as a whole excites me because it shows how much potential there is when
 ---
 
 ## 📫 Connect With Me
-- LinkedIn: [Ayobami Adetifa](https://www.linkedin.com/in/ayobami-adetifa)  
+- LinkedIn: [Ayobami Adetifa](https://www.linkedin.com/in/adetifa-ayobami)  
 - Portfolio: [Data Science Portfol.io](https://www.datascienceportfol.io/Bami)  
 - GitHub: [zeekiel10](https://github.com/zeekiel10)  
 
